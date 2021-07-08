@@ -1,7 +1,8 @@
 # ICT
 full stack development course
 
-Installation
+# Installation
+
 clone repository into your wamp www folder
 
 Start apache
